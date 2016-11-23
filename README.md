@@ -1,2 +1,2 @@
 # 2048
-Juego 2048 en C
+Juego 2048 en C++
